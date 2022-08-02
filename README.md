@@ -20,7 +20,7 @@ to run this python application, do the following steps :
 
 ## Download
 
-Fork the repository(recommended) or Download :
+Fork the repository (recommended) or Download :
 
 *<p align=center><a href="https://github.com/RahmaniSajjad/Python-Phone-Book/archive/refs/heads/main.zip"><tt>Click here to download</tt></a></p>*
  
