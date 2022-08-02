@@ -10,8 +10,8 @@ Let's go see it:wink:
 ## How to use
 to run this python application, do the following steps :
 
-- Download or fork the repository *<a href= "">(click here)</a>*
-- Install requested libraries *<a href= "">(click to see requested libraries)</a>*
+- Download or fork the repository *<a href= "https://github.com/RahmaniSajjad/Python-Phone-Book#download">(click here)</a>*
+- Install requested libraries *<a href= "https://github.com/RahmaniSajjad/Python-Phone-Book#requestments">(click to see requested libraries)</a>*
 - Turn up the system volume (if you want to hear start application and exit application sounds!)
 - Run <tt>StartWindow.py</tt> and enjoy it!
 
