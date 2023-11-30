@@ -43,7 +43,7 @@ wget https://github.com/RahmaniSajjad/Python-Phone-Book/archive/refs/heads/main.
 
 - <tt>pip install PyQt5</tt>
 - <tt>pip install gtts</tt>
-- <tt>pip install playsound</tt>
+- <tt>pip install playsound==1.2.2</tt>
 - <tt>pip install requests</tt>
 
 
