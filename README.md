@@ -1,60 +1,65 @@
-# python-phone-book
-Here is a Phonebook application with many features that written by python & pyqt5 :v:
-<br>
-<br>
-Let's go see it:wink:
+# Python Phonebook Application 
 
-<br>
-<br>
+Here is a full-featured Phonebook application written in Python & PyQt5! 
 
-## How to use
-to run this python application, do the following steps :
+Let's take a look at it in action:
 
-- Download or fork the repository *<a href= "https://github.com/RahmaniSajjad/Python-Phone-Book#download">(click here)</a>*
-- Install requested libraries *<a href= "https://github.com/RahmaniSajjad/Python-Phone-Book#requestments">(click to see requested libraries)</a>*
-- Turn up the system volume (if you want to hear start application and exit application sounds!)
-- Run <tt>StartWindow.py</tt> and enjoy it!
+## Demo Video
 
-<br>
-<br>
+Here is a short demo showing the application in action:
 
-## Download
+[![App Demo Video](github-files/Python-Phone-Book-image4.png)](https://github.com/RahmaniSajjad/Python-GUI-Phone-Book/blob/main/github-files/Python-Phone-Book.mp4?raw=true)
 
-Fork the repository (recommended) or Download :
+**|-----> Click the image above to download the demo video.**
 
-*<p align=center><a href="https://github.com/RahmaniSajjad/Python-Phone-Book/archive/refs/heads/main.zip"><tt>Click here to download</tt></a></p>*
- 
-<p align=center>or</p>
+## Key Features
 
-```sh
-git clone https://github.com/RahmaniSajjad/Python-Phone-Book.git
-```
+- Add, edit and delete contacts
+- Search contacts by name or number
+- Sort contacts by name, last name, number, email or address  
+- Import/export contacts
+- Text-to-speech support to read out contact details
+- Nice graphical user interface
 
-<p align=center>or</p>
+## Screenshots
 
-```sh
-wget https://github.com/RahmaniSajjad/Python-Phone-Book/archive/refs/heads/main.zip
-```
+![Main Window](github-files/Python-Phone-Book-image1.png)
 
-<br>
-<br>
+![Add Contact](github-files/Python-Phone-Book-image2.png)
 
-## Requestments
+![Contacts List](github-files/Python-Phone-Book-image3.png)
 
-- <tt>pip install PyQt5</tt>
-- <tt>pip install gtts</tt>
-- <tt>pip install playsound==1.2.2</tt>
-- <tt>pip install requests</tt>
+## How to Use
 
+To run this application yourself:
 
+- Download or fork this repository  
+- Install the required libraries:
+  - `pip install PyQt5`
+  - `pip install gtts`
+  - `pip install playsound==1.2.2` 
+  - `pip install requests`
+- Turn up your system volume to hear audio notifications 
+- Run `StartWindow.py`
 
+That's it! Now you can enjoy using this app to manage your contacts.
 
+## Customization
 
+Here are some ideas to customize or extend this application:
 
+- Add network requests to sync your contacts with remote storage
+- Integrate messaging/calling APIs to communicate with contacts
+- Enhance UI with additional widgets or pages  
+- Support exporting contacts to email apps, Evernote etc.
 
+The code is well-documented to help you understand and modify it.
 
+So go ahead, fork this project and create your own personalized phonebook app!
 
+## Credits
 
+This application was created by [Rahmani Sajjad](https://github.com/RahmaniSajjad).
 
-
+The Python libraries used include PyQt5, gtts, playsound and requests.
 
